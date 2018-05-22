@@ -12,7 +12,8 @@
     "react-redux": "^5.0.5",
     "react-table": "^6.8.0",
     "redux": "^3.5.2",
-    "redux-promise-middleware": "^5.0.0"
+    "redux-promise-middleware": "^5.0.0",
+    "react-loader": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
